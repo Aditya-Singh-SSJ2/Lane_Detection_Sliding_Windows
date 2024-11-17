@@ -56,7 +56,7 @@ while success:
 
     #Histogram
     histogram = np.sum(mask[mask.shape[0]//2:, :], axis=0)
-    midpoint = np.int(histogram.shape[0]/2)
+    midpoint = int(histogram.shape[0]/2)
     left_base = np.argmax(histogram[:midpoint])
     right_base = np.argmax(histogram[midpoint:]) + midpoint
 
