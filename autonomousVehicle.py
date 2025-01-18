@@ -1,3 +1,4 @@
+# Video Expanation: https://youtu.be/Birvs5MYOLY?si=HuYnzLCldk9Db6qK
 import cv2
 import numpy as np
 
