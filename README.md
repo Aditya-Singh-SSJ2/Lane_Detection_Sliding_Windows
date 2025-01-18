@@ -30,7 +30,10 @@ This project is supported by various resources to enhance understanding:
 2. **Perspective Transformation - Coding Aspect:** [Video Link](https://youtu.be/VIDEO_LINK_FOR_PERSPECTIVE_TRANSFORMATION_CODE)  
 3. **Perspective Transformation - Logic & Math:** [Video Link](https://youtu.be/VIDEO_LINK_FOR_PERSPECTIVE_TRANSFORMATION_LOGIC)  
 4. **Image Thresholding - Coding Aspect:** [Video Link](https://youtu.be/VIDEO_LINK_FOR_THRESHOLDING_CODE)  
-5. **Image Thresholding - Logic Aspect:** [Video Link](https://youtu.be/VIDEO_LINK_FOR_THRESHOLDING_LOGIC)  
+5. **Image Thresholding - Logic Aspect:** [Video Link](https://youtu.be/VIDEO_LINK_FOR_THRESHOLDING_LOGIC)
+6. **Lane Detection Using Sliding Windows In Python Using OpenCV | Tutorial** [Video Link](https://youtu.be/ApYo6tXcjjQ?si=Gt2oJBwJxCzBhQdc)
+7. **Lane Detection with Sliding Windows | Map Lanes to Original Video Frame** [Video Link](https://youtu.be/QkfVvktGyEs?si=zdv7gBTyy5dieYlA)
+8. **Lane Detection to Autonomous Driving** [Video Link](https://youtu.be/Birvs5MYOLY?si=S0LO-TRsaXzIDM_6)
 
 Additional reference:  
 - [Ross Kippenbrock - Finding Lane Lines for Self-Driving Cars](https://youtu.be/ROSS_KIPPENBROCK_LANE_LINES_VIDEO)  
