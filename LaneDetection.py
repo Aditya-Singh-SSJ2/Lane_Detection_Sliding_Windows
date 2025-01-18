@@ -1,3 +1,4 @@
+# Video Explanation: https://youtu.be/ApYo6tXcjjQ?si=Gt2oJBwJxCzBhQdc
 import cv2
 import numpy as np
 
